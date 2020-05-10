@@ -1,2 +1,2 @@
 # spike-trains-model
-A model that determines the direction of spike trains using K-Nearest Neighbors algorithm
+A bio medical engineering model that determines the direction of spike trains using K-Nearest Neighbors algorithm
